@@ -6,11 +6,6 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
 				"inputs": [
 					{
 						"internalType": "address",
@@ -161,7 +156,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"tests/bankOwnerTest.sol": "Bank"
+			"tests/bankOwnerTest.sol": "bigBank"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
